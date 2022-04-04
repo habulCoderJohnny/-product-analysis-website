@@ -20,7 +20,6 @@ function App() {
         <Route path='/blog' element={<Blog/>}></Route>
         <Route path='/about' element={<About/>}></Route>
         <Route path='*' element={<NotFound/>}></Route>
-
       </Routes>
 
     </div>

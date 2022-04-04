@@ -14,12 +14,14 @@ const Review = () => {
     return (
         <div>
             <h1>Customer Reviews: {reviews.length}</h1>
+            <div className='grid grid-cols-2 gap-8 m-8 shadow-lg shadow-blue-500/50'>
                 {
                     reviews.map(review => <CustomerReview key={review.position}
                         review={review}>
             
                         </CustomerReview>)
                 }
+                </div>
         </div>
     );
 };
