@@ -1,0 +1,48 @@
+[
+    {
+      "position": 1,
+      "name": "Rita C. Deleo",
+      "profile": "https://images.pexels.com/photos/1845534/pexels-photo-1845534.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "rating": 4,
+      "content": "I love my !! It is definitely more slim and lightweight than my iPhone 8 plus.  "
+    },
+    {
+      "position": 2,
+      "title": "Low quality front facing camera",
+      "name": "Raymond S. Courtney",
+      "profile": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?w=2000",
+      "rating": 4,
+      "content": "I upgraded from a Samsung Galaxy S10. I used the iPhone for about a day and ended up just going back to my Samsung Galaxy."
+    },
+    {
+      "position": 3,
+      "title": "Iphone is overrated",
+      "name": "Linda S. Mullen",
+      "profile": "https://i.pinimg.com/originals/39/e9/b3/39e9b39628e745a39f900dc14ee4d9a7.jpg",
+      "rating": 2,
+      "content": "I’m embarrassed to own this $800 lump of junk. I hate it so much I’m am writing this review with it before I switch to the Samsung Galaxy S21 ultra 5G "
+    },
+    {
+      "position": 4,
+      "title": "It feels like they’re making these worse on purpose",
+      "name": "George maxwell",
+      "profile": "https://cdn.mos.cms.futurecdn.net/3kZ3hc2YMB6LXiPohtyfKa.jpg",
+      "rating": 1,
+      "content": "This is the last iPhone I’ll own, I hate it so much, this is the one that’s going to make me never buy another iPhone and I’ve had them since the 4. "
+    },
+    {
+      "position": 5,
+      "name": "Martha S. Odom",
+      "profile": "https://images.unsplash.com/photo-1554651802-57f1d69a4944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cG9ydHJhaXQlMjBmYWNlc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "rating": 5,
+      "content": "Love the phone. Been wanting it since it came out and finally put some money together to buy it. I do must say I’m happy to be back with iPhone. "
+    },
+    {
+      "position": 6,
+      "title": "Do not buy, until you read the bad reviews.",
+      "name": "bendon Meckalam",
+      "profile": "https://img.buzzfeed.com/buzzfeed-static/static/2015-09/29/12/enhanced/webdr03/original-8789-1443543100-3.jpg",
+      "rating": 1,
+      "content": "Worst iPhone I’ve ever had. A ton of things downgraded. The phone will just decide you have been listening to music too loud for too long and cut the volume in half.  "
+    }
+  ]
