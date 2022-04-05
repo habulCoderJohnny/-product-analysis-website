@@ -1,8 +1,9 @@
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-
+    
 const CustomerReview = (props) => {
+    // data taken review style 
     const {profile, name, content, rating} = props.review
     return (
         <div className='border-2 border-red-500 rounded p-3 text-white bg-cyan-500 shadow-lg shadow-cyan-500/50'>

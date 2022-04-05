@@ -19,7 +19,7 @@ const Home = () => {
                 <img className="w-2/4 rounded-sm mx-3" src="mars.png" />
             </div>
 
-
+               {/* home review map show 3 */}
             <h2 className='text-3xl  my-6 underline decoration-4 '>Public Reaction about Mars Misson 2030</h2>
             <div className="grid grid-cols-3 gap-8 mx-20 shadow-blue-500/50">
                 {
@@ -28,6 +28,7 @@ const Home = () => {
                     </CustomerReview>)
                 }
             </div>
+            {/* see more btn  */}
             <div className="m-6">
                 <Link to='/reviews' className='no-underline w-35 bg-cyan-500 p-2 text-white font-bold m-3 rounded-full'>See more Reviews</Link>
             </div>

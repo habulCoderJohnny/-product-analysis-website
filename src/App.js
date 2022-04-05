@@ -7,12 +7,11 @@ import Dashboard from './components/Dashboard/Dashboard';
 import Blog from './components/Blog/Blog';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
-import Footer from './Footer/Footer';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
     <div className="App">
-
       <Header/>
       <Routes>
         <Route path='/' element={<Home/>}></Route>

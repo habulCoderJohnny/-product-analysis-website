@@ -42,7 +42,7 @@ const LineCharts = () => {
     ]
     
     return (
-        // <ResponsiveContainer width="100%" height="100%">
+        
         <LineChart width={500} height={400} data={data} margin={{
             top: 20, right: 30, left: 30, bottom: 5}}>
             <Line dataKey={'investment'}></Line>
@@ -55,7 +55,6 @@ const LineCharts = () => {
           <Line type="monotone" dataKey="investment" stroke="#fc03f0" activeDot={{ r: 8 }} />
           <Line type="monotone" dataKey="sell" stroke="#35fc03" />
         </LineChart>
-        /* </ResponsiveContainer> */
 
     );
 };

@@ -13,7 +13,6 @@ const Review = () => {
                 {
                     reviews.slice(0, 6).map(review => <CustomerReview key={review.position}
                         review={review}>
-            
                         </CustomerReview>)
                 }
                 </div>

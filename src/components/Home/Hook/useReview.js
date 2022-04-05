@@ -1,5 +1,6 @@
-import { useEffect, useState } from "react"
+import {useEffect, useState } from "react"
 
+// data fetch hook in Review Component
 const useReview = () =>{
     const [reviews, setReview] = useState([]);
     useEffect(()=>{

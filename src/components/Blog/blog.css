@@ -1,16 +1,17 @@
-
-.blog-area{
+.blog-area {
     max-width: 1100px;
     color: whitesmoke;
     background-color: #402aea;
     text-align: left;
-margin: 0 auto;
+    margin: 0 auto;
 }
+
 .quesition-one,
 .quesition-two,
-.quesition-three{
-margin: 20px 20px;
+.quesition-three {
+    margin: 20px 20px;
 }
-h3{
-    font:revert;
+
+h3 {
+    font: revert;
 }
