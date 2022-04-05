@@ -43,7 +43,7 @@ const LineCharts = () => {
     
     return (
         // <ResponsiveContainer width="100%" height="100%">
-        <LineChart width={800} height={500} data={data} margin={{
+        <LineChart width={500} height={400} data={data} margin={{
             top: 20, right: 30, left: 30, bottom: 5}}>
             <Line dataKey={'investment'}></Line>
             <Line dataKey={'sell'}></Line>

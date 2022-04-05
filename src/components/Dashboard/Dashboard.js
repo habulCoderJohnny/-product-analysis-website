@@ -7,14 +7,13 @@ import LineCharts from './Charts/LineCharts';
 const Dashboard = () => {
     return (
         <div>
-            <h1>OUR BUSNESS STRATEGY</h1>
+            <h1 className='py-2'>OUR BUSNESS STRATEGY</h1>
             <hr />
+            <div className='flex justify-evenly py-8'>
             <LineCharts></LineCharts>
-            <br />
-            <h1>OUR SHOPPING REPORT</h1>
-            <hr />
             <BarCharts></BarCharts>
-
+            </div>
+         
         </div>
     );
 };

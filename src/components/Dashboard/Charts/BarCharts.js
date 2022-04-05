@@ -23,7 +23,7 @@ const BarCharts = () => {
 
     }, []);
     return (
-        <BarChart width={800} height={400} data={phones} margin={{
+        <BarChart width={500} height={400} data={phones} margin={{
             top: 20, right: 30, left: 30, bottom: 5}}>
             <Bar dataKey="value" fill="#03c2fc" />
             <XAxis dataKey={'name'}></XAxis>

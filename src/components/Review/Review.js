@@ -7,8 +7,8 @@ const Review = () => {
  
     return (
         <div>
-            <h1>Customer Reviews: {reviews.length}</h1>
-            <div className='grid grid-cols-1 gap-8 m-8 shadow-blue-500/50'>
+
+            <div className='grid grid-cols-2 gap-8 my-20 mx-20 shadow-blue-500/50'>
                 {
                     reviews.slice(0, 6).map(review => <CustomerReview key={review.position}
                         review={review}>
