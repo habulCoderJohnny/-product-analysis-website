@@ -1,0 +1,9 @@
+.blog-area{
+    max-width: 1100px;
+margin: 0 auto;
+}
+.quesition-one,
+.quesition-two,
+.quesition-three{
+margin: 20px 20px;
+}
